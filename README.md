@@ -7,3 +7,4 @@ A repository holding useful Java algorithms.
 ### Numbers
 
 *   [PerfectPower](numbers/PerfectPower.java): Determines whether a number n can be represented as n = m^k.
+*   [ProdFib](numbers/ProdFib.java): Determines whether a number can be represented as the sum of consecutive fibonnaci numbers
